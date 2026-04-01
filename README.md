@@ -19,3 +19,11 @@ While the current iteration is stable, there is always room for evolution:
 Haptics: Adding a small vibration motor or piezo buzzer for tactile feedback when toggling lights.
 
 Power Efficiency: Optimizing the LVGL (Light and Versatile Graphics Library) code to allow for longer deep-sleep intervals if running on a small LiPo battery.
+
+### BOM
+
+| NAME | PURPOSE | QTY | TOTAL (USD) | LINK | DISTRIBUTOR |
+| :--- | :------ | :-: | :---------- | :--- | :---------- |
+| Button | to press for quick controls | 1 | $2.61 | [Link to Listing](https://www.digikey.com.au/en/products/detail/adafruit-industries-llc/367/10669771) | DIGIKEY |
+| 4" Display | To display the statistics | 1 | $12.75 | [Link to Listing](https://www.aliexpress.com/item/1005005791515997.html) | Aliexpress |
+| Microcontroller | Micro controller: to control the crseen | 1 | $5.22 | [Link to Listing](https://www.digikey.com.au/en/products/detail/seeed-technology-co-ltd/113991054/16652880) | DigiKey |
