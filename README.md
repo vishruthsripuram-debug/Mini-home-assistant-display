@@ -20,6 +20,8 @@ Haptics: Adding a small vibration motor or piezo buzzer for tactile feedback whe
 
 Power Efficiency: Optimizing the LVGL (Light and Versatile Graphics Library) code to allow for longer deep-sleep intervals if running on a small LiPo battery.
 
+## wiring diagram
+<img width="636" height="591" alt="Wiring diagram" src="https://github.com/user-attachments/assets/a1c3cb52-e75c-4ed4-aa4c-36d2e3c57708" />
 ### BOM
 
 | NAME | PURPOSE | QTY | TOTAL (USD) | LINK | DISTRIBUTOR |
